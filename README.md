@@ -11,6 +11,7 @@ How to reach me ... You can find me on the below socials
 Reddit @tboniface97 
 Hack The Box @P3DRO
 Twitter @BonifaceToby
+Linked @Toby Boniface
 
 <!---
 P3DROO/P3DROO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
