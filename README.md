@@ -8,11 +8,6 @@ I’m currently learning how to use GitHub, Linux and a number of different cert
 I’m looking to collaborate on nothing yet, but that may change in the future.
 How to reach me ... You can find me on the below socials
 
-Reddit @tboniface97 
-Hack The Box @P3DRO
-Twitter @BonifaceToby
-Linked @Toby Boniface
-
 <!---
 P3DROO/P3DROO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
